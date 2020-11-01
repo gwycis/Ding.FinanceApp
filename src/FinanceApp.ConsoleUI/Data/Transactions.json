@@ -1,0 +1,23 @@
+﻿[
+  {
+    "Amount": {
+      "Value": 1000.00
+    },
+    "Type": "Deposit",
+    "Date": "2012-01-10"
+  },
+  {
+    "Amount": {
+      "Value": 2000.00
+    },
+    "Type": "Deposit",
+    "Date": "2012-01-13"
+  },
+  {
+    "Amount": {
+      "Value": 500
+    },
+    "Type": "Withdrawal",
+    "Date": "2012-01-14"
+  }
+]

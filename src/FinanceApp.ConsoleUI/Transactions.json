@@ -1,0 +1,27 @@
+{
+  "Transactions": [
+    {
+
+      "Amount": {
+        "Value": 1000.00
+      },
+
+      "TransactionType": "Deposit",
+      "TransactionDate": "2012-01-10"
+    },
+    {
+      "Amount": {
+        "Value": 2000.00
+      },
+      "TransactionType": "Deposit",
+      "TransactionDate": "2012-01-13"
+    },
+    {
+      "Amount": {
+        "Value": 500
+      },
+      "TransactionType": "Withdrawal",
+      "TransactionDate": "2012-01-14"
+    }
+  ]
+}
